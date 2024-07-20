@@ -1,6 +1,6 @@
-//heap sort
+//heap sort1
 #include <iostream>
-using namespace std;
+using namespace std;  
 
 void maxHeapify(int arr[], int n, int i) {
     int largest = i;
